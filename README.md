@@ -10,7 +10,7 @@ The system detects whether a person is wearing a helmet and provides **clear saf
 
 > 📌 Click on the video below to watch the full demo of the project in action.
 
-https://github.com/darpana-chauhan/smart-image-safety-analyzer/blob/main/smart-image-safety-analyzer-video.mp4
+https://github.com/user-attachments/assets/e50ff477-0ca5-471e-babf-d32e0f5d4976
 
 ---
 
