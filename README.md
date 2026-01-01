@@ -42,18 +42,6 @@ https://github.com/user-attachments/assets/e50ff477-0ca5-471e-babf-d32e0f5d4976
 
 ---
 
-## 📂 Project Structure
-
-smart-image-safety-analyzer/
-│
-├── app.py # Streamlit application
-├── requirements.txt # Project dependencies
-├── smart-image-safety-analyzer-video.mp4
-├── README.md
-
-
----
-
 ## 🚀 Learning Outcome
 
 This project helped me understand how **vision-language models** can be combined with **rule-based reasoning** to solve practical real-world safety problems.  
